@@ -1,0 +1,162 @@
+head{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    line-height: 32px;
+    font-weight: bold;
+}
+
+
+a {
+    color:#dddddd;
+}
+
+.top {
+    background: #fff;
+    overflow: auto;
+    height: 90px;
+    position: relative;
+    border-bottom: 1px solid #dddddd;
+}
+
+.name {
+    background: #4aaaa5;
+    width: 300px;
+    text-align: center;
+    margin-left: 20px;
+    position: absolute;
+    left: 100px;
+    padding: 30px;
+    height: 30px;
+    color: #fff;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px 140px 0 auto;
+    padding: 0;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+}
+
+li {
+    float: right;
+    text-align: center;
+}
+
+li a {
+    float: right;
+    display: block;
+    padding: 20px 20px 20px 15px;
+    background-color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+ul a:hover {
+    background: #4aaaa5;
+    color: #fff;
+}
+
+.wrapper {
+    width: 960px;
+    margin 0 auto 0 auto;
+    overflow: auto;
+}
+
+.info {
+    background: #fff;
+    width: 650px;
+    height: auto;
+    padding: 20px;
+    border: 1px solid #dddddd;
+    position: relative;
+    left: 100px;
+    margin: 20px 0 0 20px;
+    overflow: auto;
+}
+
+.infoport {
+    background: #fff;
+    width: 650px;
+    height: 400px;
+    padding: 20px;
+    border: 1px solid #dddddd;
+    position: relative;
+    left: 100px;
+    margin: 20px 0 0 20px;
+    overflow: auto;
+}
+
+h1 {
+    color: #4aaaa5;
+}
+
+.text {
+    color: #aaa;
+    font-size: 20px;
+    line-height: 150%;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.side {
+    position: absolute;
+    right: 100px;
+    top: 90px;
+    margin: 20px;
+    background: #fff;
+    overflow: auto; 
+    width: 270px;
+    height: 30%;
+    text-align: center;
+    color: #4aaaa5;
+    font-size: 28px;
+    padding: 20px;
+    border: 1px solid #dddddd;
+}
+
+footer {
+    position: absolute;
+    text-align: center;
+    font-size: 14px;
+    bottom: 0px;
+    width: 100%;
+    margin: auto 0 auto 0;
+    border-top: 5px solid #4aaaa5;
+    background: #666666;
+    color: #fff;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pic {
+    margin: 10px 20px 20px 0;
+    width: 200px;
+    height: 150px;
+    float: left;
+}
+
+.portfolio {
+    float: center;
+    margin: 10px 20px 20px 30px;
+    width: 250px;
+    height: 250px;
+}
+
+form {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+hr {
+    border-style: solid;
+    border-color: #dddddd;
+}
+
