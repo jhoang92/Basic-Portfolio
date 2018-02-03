@@ -65,26 +65,27 @@ ul a:hover {
 }
 
 .wrapper {
-    width: 960px;
+    width: 870px;
     margin 0 auto 0 auto;
     overflow: auto;
 }
 
 .info {
     background: #fff;
-    width: 650px;
+    width: 608px;
     height: auto;
     padding: 20px;
     border: 1px solid #dddddd;
-    position: relative;
     left: 100px;
-    margin: 20px 0 0 20px;
+    margin: 20px 20px 20px 20px;
     overflow: auto;
+    position: relative;
+
 }
 
 .infoport {
     background: #fff;
-    width: 650px;
+    width: 608px;
     height: 400px;
     padding: 20px;
     border: 1px solid #dddddd;
