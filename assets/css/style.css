@@ -65,14 +65,14 @@ ul a:hover {
 }
 
 .wrapper {
-    width: 870px;
+    width: 950px;
     margin 0 auto 0 auto;
     overflow: auto;
 }
 
 .info {
     background: #fff;
-    width: 608px;
+    width: 610px;
     height: auto;
     padding: 20px;
     border: 1px solid #dddddd;
@@ -85,7 +85,7 @@ ul a:hover {
 
 .infoport {
     background: #fff;
-    width: 608px;
+    width: 610px;
     height: 400px;
     padding: 20px;
     border: 1px solid #dddddd;
@@ -114,8 +114,8 @@ h1 {
     margin: 20px;
     background: #fff;
     overflow: auto; 
-    width: 270px;
-    height: 30%;
+    width: 230px;
+    height: 35%;
     text-align: center;
     color: #4aaaa5;
     font-size: 28px;
